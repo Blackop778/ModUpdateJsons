@@ -1,0 +1,13 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/minecalc",
+  "1.7.10": {
+    "1.7.10-1.4.2": "See https://github.com/Blackop778/MineCalc/commit/abee103ac40932420b5233bb6b91ede793f68078"
+  },
+  "1.8.8": {
+    "1.8.8-2.4.2": "See https://github.com/Blackop778/MineCalc/commit/83e69b6e3812fa2563ae5285c09e601b58602006"
+  },
+  "promos": {
+    "1.7.10-recommended": "1.7.10-1.4.2",
+    "1.8.8-recommended": "1.8.8-2.4.2"
+  }
+}
