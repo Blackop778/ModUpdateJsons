@@ -1,9 +1,5 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/minecalc",
-  },
-  "1.8.8": {
-    "1.8.8-2.4.2": "See https://github.com/Blackop778/MineCalc/commit/83e69b6e3812fa2563ae5285c09e601b58602006"
-  },
   "1.8.9": {
     "1.8.9-3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
   },
@@ -11,7 +7,7 @@
     "1.9.4-3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
   },
   "1.10.2": {
-    "1.10.2-3.0.0": See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
+    "1.10.2-3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
   },
   "promos": {
     "1.8.9-recommended": "1.8.9-3.0.0",
