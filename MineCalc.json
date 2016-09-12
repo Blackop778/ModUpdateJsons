@@ -1,21 +1,21 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/minecalc",
   "1.8.9": {
-	"1.8.9-3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328841",
-    "1.8.9-3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
+	"3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328841",
+    "3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
   },
   "1.9.4": {
-	"1.9.4-3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328855",
-    "1.9.4-3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
+	"3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328855",
+    "3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
   },
   "1.10.2": {
-	"1.10.2-3.1.1": "See https://minecraft.curseforge.com/projects/minecalc/files/2329495",
-	"1.10.2-3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328557",
-    "1.10.2-3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
+	"3.1.1": "See https://minecraft.curseforge.com/projects/minecalc/files/2329495",
+	"3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328557",
+    "3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
   },
   "promos": {
-    "1.8.9-recommended": "1.8.9-3.1.0",
-    "1.9.4-recommended": "1.9.4-3.1.0",
-    "1.10.2-recommended": "1.10.2-3.1.1"
+    "1.8.9-recommended": "3.1.0",
+    "1.9.4-recommended": "3.1.0",
+    "1.10.2-recommended": "3.1.1"
   }
 }
