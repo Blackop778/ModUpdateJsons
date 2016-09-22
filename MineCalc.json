@@ -1,21 +1,24 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/minecalc",
   "1.8.9": {
-	"3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328841",
-    "3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
+  	"3.1.2": "Added Translation support. Default command is now /calc. Implemented Forge's update checker.",
+	"3.1.0": "Allowed editing the config ingame via the Mods menu.",
+    "3.0.0": "Spaces aren't required to separate arguments. Removed rootTimes config option."
   },
   "1.9.4": {
-	"3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328855",
-    "3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
+  	"3.1.2": "Implemented Forge's version checker. Removed update check config option.",
+	"3.1.0": "Allowed editing the config ingame via the Mods menu.",
+    "3.0.0": "Spaces aren't required to separate arguments. Removed rootTimes config option."
   },
   "1.10.2": {
-	"3.1.1": "See https://minecraft.curseforge.com/projects/minecalc/files/2329495",
-	"3.1.0": "See https://minecraft.curseforge.com/projects/minecalc/files/2328557",
-    "3.0.0": "See https://github.com/Blackop778/MineCalc/releases/tag/3.0.0"
+  	"3.1.2": "Implemented Forge's version checker. Removed update check config option.",
+	"3.1.1": "Implemented a custom version checker. Removed in 3.1.2.",
+	"3.1.0": "Allowed editing the config ingame via the Mods menu.",
+    "3.0.0": "Spaces aren't required to separate arguments. Removed rootTimes config option."
   },
   "promos": {
-    "1.8.9-recommended": "3.1.0",
-    "1.9.4-recommended": "3.1.0",
-    "1.10.2-recommended": "3.1.1"
+    "1.8.9-recommended": "3.1.2",
+    "1.9.4-recommended": "3.1.2",
+    "1.10.2-recommended": "3.1.2"
   }
 }
