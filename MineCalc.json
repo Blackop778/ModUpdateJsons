@@ -1,6 +1,7 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/minecalc",
   "1.8.9": {
+	"4.0.0": "Added parenthesis and OOPS. Full changes: https://minecraft.curseforge.com/projects/minecalc/files/2392293",
 	"3.1.4": "Fixed exponents when not the first function. Added check for imaginary numbers dealing with exponents.",
 	"3.1.3": "Handled double decimal error.",
   	"3.1.2": "Added Translation support. Default command is now /calc. Implemented Forge's update checker.",
@@ -8,7 +9,7 @@
     "3.0.0": "Spaces aren't required to separate arguments. Removed rootTimes config option."
   },
   "1.9.4": {
-	"4.0.0": "Added Parenthesis and OOPS. Be sure to check full changelog. Likely last update for 1.9.4",
+	"4.0.0": "Added Parenthesis and OOPS. Full changes: https://minecraft.curseforge.com/projects/minecalc/files/2390984",
 	"3.1.4": "Fixed exponents when not the first function. Added check for imaginary numbers dealing with exponents.",
 	"3.1.3": "Handled double decimal error.",
   	"3.1.2": "Implemented Forge's version checker. Removed update check config option.",
@@ -16,7 +17,7 @@
     "3.0.0": "Spaces aren't required to separate arguments. Removed rootTimes config option."
   },
   "1.10.2": {
-	"4.0.0": "It's finally here! Exciting changes. Check: https://github.com/Blackop778/MineCalc/releases/tag/4.0.0",
+	"4.0.0": "Added Parenthesis and OOPS. Check all changes: https://github.com/Blackop778/MineCalc/releases/tag/4.0.0",
 	"3.1.4": "Fixed exponents when not the first function. Added check for imaginary numbers dealing with exponents.",
 	"3.1.3": "Handled multiple decimal point error. Fixed Upside Down language.",
   	"3.1.2": "Implemented Forge's version checker. Removed update check config option.",
