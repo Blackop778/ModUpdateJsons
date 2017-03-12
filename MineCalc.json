@@ -26,7 +26,7 @@
     "3.0.0": "Spaces aren't required to separate arguments. Removed rootTimes config option."
   },
   "promos": {
-    "1.8.9-recommended": "3.1.4",
+    "1.8.9-recommended": "4.0.0",
     "1.9.4-recommended": "4.0.0",
     "1.10.2-recommended": "4.0.0"
   }
